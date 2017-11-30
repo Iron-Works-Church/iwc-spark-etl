@@ -1,0 +1,6 @@
+mysql.user=
+mysql.password=
+mysql.host=
+mysql.port=
+mysql.database=
+csvpath=
